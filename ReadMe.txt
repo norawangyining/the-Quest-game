@@ -1,6 +1,3 @@
-Student Surname: Wang
-
-BU ID: E98029706
 
 How to compile and execute: 
  - compile: javac [allfiles]
